@@ -1,0 +1,4 @@
+create table sample_table
+(s_no number not null,
+name varchar(30),
+phone number(10) unique);
